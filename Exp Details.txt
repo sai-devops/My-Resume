@@ -1,0 +1,36 @@
+Company Name: T-Systems ICT India Pvt Ltd
+
+
+
+Conseltency company (Pay Roll): yaska technologies private limited
+
+
+Project1
+
+  Name		 :  ARCUS Hospital Management System.
+  Technology	 :  SVN, Maven, Jenkins, Tomcat.
+  Designation	 :  Build And Release Engineer
+  Duration       :  April-2016 june-2017
+
+Project2
+
+
+  Client	 :  CITI BANK across globe
+  Technology	 : Git, Maven, Jenkins, Apache Tomcat sever, Linux.
+  Designation	 :  Build and Release Engineer.
+  Duration       :  June-2017 to Aug-2018
+
+
+Project3
+
+  Client	 :  johndeere
+  Technology	 :  AWS, Git, Maven, Jenkins, Apache Tomcat sever, Linux.
+  Designation	 :  DevOps Engineer.
+  Duration       :  Aug-2018 to till date
+
+
+
+
+
+
+
